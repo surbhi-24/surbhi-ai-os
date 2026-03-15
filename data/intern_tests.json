@@ -1,0 +1,12 @@
+{
+  "tests": [
+    {
+      "company": "Google",
+      "date": null
+    },
+    {
+      "company": "Amazon",
+      "date": null
+    }
+  ]
+}
